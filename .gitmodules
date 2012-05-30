@@ -1,0 +1,30 @@
+[submodule "listGlobals"]
+	path = listGlobals
+	url = git://gist.github.com/2601334.git
+[submodule "pipedNodeCsv"]
+	path = pipedNodeCsv
+	url = git://gist.github.com/2420925.git
+[submodule "extend"]
+	path = extend
+	url = git://gist.github.com/1985835.git
+[submodule "localDatabase"]
+	path = localDatabase
+	url = git://gist.github.com/1965560.git
+[submodule "zStreamRequest"]
+	path = zStreamRequest
+	url = git://gist.github.com/1864502.git
+[submodule "microMustache"]
+	path = microMustache
+	url = git://gist.github.com/1537847.git
+[submodule "expressHtmlRenderer"]
+	path = expressHtmlRenderer
+	url = git://gist.github.com/1351552.git
+[submodule "deferred"]
+	path = deferred
+	url = git://gist.github.com/1073564.git
+[submodule "barrier.js"]
+	path = barrier.js
+	url = git://gist.github.com/997031.git
+[submodule "crossPubSub.js"]
+	path = crossPubSub.js
+	url = git://gist.github.com/997030.git
